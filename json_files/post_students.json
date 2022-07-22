@@ -1,0 +1,26 @@
+[
+    {
+        "FirstName": "Umidjon1",
+        "MiddleName": "Xusniddin o'g'li",
+        "LastName": "Qobiljonov",
+        "Gender": "male",
+        "Nationality": "uzbek",
+        "Faculty": "World Politics",
+        "AdmissionYear": "2019",
+        "SupervisorName": "Xusniddin Ismoilov",
+        "ResearchTopic": "CRUD in PHP using json",
+        "id": 1
+    },
+    {
+        "FirstName": "Umidjon2",
+        "MiddleName": "Xusniddin o'g'li",
+        "LastName": "Qobiljonov",
+        "Gender": "male",
+        "Nationality": "uzbek",
+        "Faculty": "World Politics",
+        "AdmissionYear": "2022",
+        "SupervisorName": "Xusniddin Ismoilov",
+        "ResearchTopic": "CRUD in PHP using json",
+        "id": 2
+    }
+]

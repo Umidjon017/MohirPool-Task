@@ -1,0 +1,24 @@
+[
+    {
+        "FirstName": "Umidjon1",
+        "MiddleName": "Xusniddin o'g'li",
+        "LastName": "Qobiljonov",
+        "Gender": "male",
+        "Nationality": "uzbek",
+        "Faculty": "World Politics",
+        "AdmissionYear": "2018",
+        "ResidentialHall": "Toshkent shahar, Shaxrisabz 25-uy",
+        "id": 1
+    },
+    {
+        "FirstName": "Umidjon2",
+        "MiddleName": "Xusniddin o'g'li",
+        "LastName": "Qobiljonov",
+        "Gender": "male",
+        "Nationality": "uzbek",
+        "Faculty": "World Politics",
+        "AdmissionYear": "2019",
+        "ResidentialHall": "Toshkent shahar, Shaxrisabz 25-uy",
+        "id": 2
+    }
+]
